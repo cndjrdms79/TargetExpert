@@ -1,1 +1,5 @@
-# TargetExpert
+# TargetExpert 매뉴얼 작성
+## 20141264 컴퓨터공학과 정혜성
+
+###
+
